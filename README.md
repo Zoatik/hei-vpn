@@ -19,7 +19,7 @@
 ## 🎯 Context
 
 The official VPN client provided by HEI (Ivanti Secure Access) is **not compatible with Linux**.  
-**HEI-VPN** was created to address this gap by providing a reliable, portable, and easy-to-use alternative that requires no manual setup. This project is heavily inspired by [**hei-vpn-for-linux**](https://git.kb28.ch/HEL/hei-vpn-for-linux.git) by [**Lord Baryhobal**](https://git.kb28/HEL.ch).
+**HEI-VPN** was created to address this gap by providing a reliable, portable, and easy-to-use alternative that requires no manual setup. This project is heavily inspired by [**hei-vpn-for-linux**](https://git.kb28.ch/HEL/hei-vpn-for-linux.git) by [**Lord Baryhobal**](https://git.kb28.ch/HEL).
 
 ---
 
@@ -102,7 +102,7 @@ If you’re modifying or testing the source code:
 
 ## 🆚 Improvements over the Original Project
 
-This project is heavily inspired by [**hei-vpn-for-linux**](https://git.kb28.ch/HEL/hei-vpn-for-linux.git) by [**Lord Baryhobal**](https://git.kb28/HEL.ch), with the following enhancements:
+This project is heavily inspired by [**hei-vpn-for-linux**](https://git.kb28.ch/HEL/hei-vpn-for-linux.git) by [**Lord Baryhobal**](https://git.kb28.ch/HEL), with the following enhancements:
 
 | Feature                        | HEI-VPN                                     |
 |--------------------------------|---------------------------------------------|
@@ -120,7 +120,7 @@ This project is heavily inspired by [**hei-vpn-for-linux**](https://git.kb28.ch/
 ## 🙌 Credits
 
 - Developed by **Zoatik** (© 2025)
-- Inspired by [**hei-vpn-for-linux**](https://git.kb28.ch/HEL/hei-vpn-for-linux.git) by [**Lord Baryhobal**](https://git.kb28/HEL.ch)
+- Inspired by [**hei-vpn-for-linux**](https://git.kb28.ch/HEL/hei-vpn-for-linux.git) by [**Lord Baryhobal**](https://git.kb28.ch/HEL)
 - Built using the following open-source components:
 
 ### 🔸 geckodriver (Mozilla)
