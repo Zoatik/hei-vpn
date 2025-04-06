@@ -40,7 +40,7 @@ The official VPN client provided by HEI (Ivanti Secure Access) is **not compatib
 
 ### 🖥️ 1. Use the AppImage (recommended for most users)
 
-1. **Download the AppImage** from the [releases page](#).
+1. **Download the AppImage** from the [releases page](https://github.com/Zoatik/hei-vpn/releases/tag/v1.0.0-HEI_VPN).
 2. **Make it executable**:
    ```bash
    chmod +x HEI-VPN.AppImage
