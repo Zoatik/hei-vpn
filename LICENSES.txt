@@ -18,6 +18,13 @@ Licence complète : https://www.mozilla.org/MPL/2.0/
 
 ---
 
+🔹 appimagetool (AppImage Project)
+
+- Purpose: Packaging HEI-VPN into a portable AppImage format
+- License: MIT
+- Source: github.com/AppImage/AppImageKit
+---
+
 🔹 selenium (par SeleniumHQ)
 
 - Rôle : Bibliothèque Python pour l'automatisation des navigateurs web (WebDriver)
