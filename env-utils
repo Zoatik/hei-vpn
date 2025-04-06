@@ -1,0 +1,12 @@
+#!/bin/bash
+clear_env() {
+  echo "🧹 Clearing environment..."
+
+  for dir in AppDir tools build dist; do
+    if [ -d "$dir" ]; then
+      rm -rf "$dir" && echo "✅ Removed $dir" || echo "❌ Failed to remove $dir"
+    else
+      echo "ℹ️  $dir does not exist"
+    fi
+  done
+}
