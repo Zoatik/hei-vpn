@@ -1,0 +1,63 @@
+LICENCES TIERCES INCLUSES DANS CETTE APPLICATION
+-------------------------------------------------
+
+Cette application utilise ou s'inspire de composants logiciels fournis par des tiers.
+Ci-dessous, vous trouverez la liste des composants concernés et les termes associés.
+
+---
+
+🔹 geckodriver (par Mozilla)
+
+- Rôle : Pilote WebDriver pour automatiser Firefox via Selenium
+- Source : https://github.com/mozilla/geckodriver
+- Licence : Mozilla Public License 2.0 (MPL 2.0)
+
+Ce logiciel est distribué sous la licence MPL 2.0.
+Aucune modification n’a été apportée à ce fichier.
+Licence complète : https://www.mozilla.org/MPL/2.0/
+
+---
+
+🔹 selenium (par SeleniumHQ)
+
+- Rôle : Bibliothèque Python pour l'automatisation des navigateurs web (WebDriver)
+- Source : https://pypi.org/project/selenium/
+- Licence : Apache License 2.0
+
+Licence complète : https://www.apache.org/licenses/LICENSE-2.0
+
+---
+
+🔹 psutil
+
+- Rôle : Surveillance et gestion des processus système
+- Source : https://pypi.org/project/psutil/
+- Licence : BSD 3-Clause License
+
+Licence complète : https://opensource.org/licenses/BSD-3-Clause
+
+---
+
+🔹 requests (par Kenneth Reitz et la communauté Python)
+
+- Rôle : Requêtes HTTP simplifiées en Python
+- Source : https://pypi.org/project/requests/
+- Licence : Apache License 2.0
+
+Licence complète : https://www.apache.org/licenses/LICENSE-2.0
+
+---
+
+🔹 hei-vpn-for-linux (par kb28)
+
+- Rôle : Le développement de cette application s’est partiellement inspiré du projet open source `hei-vpn-for-linux`.
+- Source : https://git.kb28.ch/HEL/hei-vpn-for-linux.git
+- Licence : Aucune licence explicite trouvée
+
+Ce projet n’indique pas de licence libre.
+Le code a été utilisé à des fins d’apprentissage et d’adaptation technique.
+Les droits d’auteur restent la propriété de leurs auteurs respectifs.
+
+---
+
+Pour toute question concernant la redistribution de cette application ou les composants mentionnés, merci de contacter le développeur.

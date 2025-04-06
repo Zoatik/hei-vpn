@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hei-vpn"
+version = "1.0.0"
+description = "VPN client for HEI school using OpenConnect and SAML authentication."
+authors = [
+  { name = "Zoatik", email = "axelhal@hotmail.com" }
+]
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.8"
+dependencies = [
+  "psutil>=5.9.0",
+  "requests>=2.31.0",
+  "selenium>=4.18.1"
+]
+
+[project.urls]
+Homepage = "https://github.com/zoatik/hei-vpn"
+
+[tool.setuptools]
+packages = ["hei_vpn", "hei_vpn.core"]
+
+[tool.setuptools.package-data]
+hei_vpn = ["config.json", "geckodriver"]
+
+[project.scripts]
+hei-vpn = "hei_vpn.main:main"

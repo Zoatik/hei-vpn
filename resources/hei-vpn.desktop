@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=HEI-VPN
+Exec=hei-vpn
+Icon=hei-vpn
+Terminal=true
+Categories=Network;
+Comment=VPN client for HEI using OpenConnect and SAML auth
