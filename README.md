@@ -41,15 +41,22 @@ The official VPN client provided by HEI (Ivanti Secure Access) is **not compatib
 ### 🖥️ 1. Use the AppImage (recommended for most users)
 
 1. **Download the AppImage** from the [releases page](https://github.com/Zoatik/hei-vpn/releases/tag/v1.0.0-HEI_VPN).
-2. **Make it executable**:
+
+   **OR**
+
+   **Build the AppImage from source** with the *build-appimage* script:
+   ```bash
+   ./build-appimage.sh
+   ```
+3. **Make it executable**:
    ```bash
    chmod +x HEI-VPN.AppImage
    ```
-3. **Run the application**:
+4. **Run the application**:
    ```bash
    ./HEI-VPN.AppImage
    ```
-4. *(Optional)* **Add it to your app launcher**:
+5. *(Optional)* **Add it to your app launcher**:
    - Use [Gear Lever](https://github.com/TheAssassin/AppImageLauncher) or any launcher editor (like `menulibre`, `alacarte`, `kmenuedit`) to integrate the AppImage into your system menu.
 
 ---
