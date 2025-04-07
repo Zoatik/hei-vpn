@@ -82,7 +82,6 @@ def run_vpn():
         while True:
             line = proc.stdout.readline().decode("utf-8").strip()
             if not line:
-                print("OIHOFIH")
                 break
             vpnLogger.log(line)
             if line == "ESP session established with server":
