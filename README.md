@@ -16,7 +16,7 @@
 
 ---
 
-## 🎯 Context {#context}
+## Context
 
 The official VPN client provided by HEI (Ivanti Secure Access) is **not compatible with Linux**.  
 **HEI-VPN** was created to address this gap by providing a reliable, portable, and easy-to-use alternative that requires no manual setup. This project is heavily inspired by [**hei-vpn-for-linux**](https://git.kb28.ch/HEL/hei-vpn-for-linux.git) by [**Lord Baryhobal**](https://git.kb28.ch/HEL).
