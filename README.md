@@ -16,14 +16,14 @@
 
 ---
 
-## 🎯 Context
+## 🎯 Context {#context}
 
 The official VPN client provided by HEI (Ivanti Secure Access) is **not compatible with Linux**.  
 **HEI-VPN** was created to address this gap by providing a reliable, portable, and easy-to-use alternative that requires no manual setup. This project is heavily inspired by [**hei-vpn-for-linux**](https://git.kb28.ch/HEL/hei-vpn-for-linux.git) by [**Lord Baryhobal**](https://git.kb28.ch/HEL).
 
 ---
 
-## ✨ Key Features
+## ✨ Key Features {#key-features}
 
 - Automatic connection to the HEI's Ivanti VPN
 - Detects when already inside the HEI network (prevents redundant connection)
@@ -36,7 +36,7 @@ The official VPN client provided by HEI (Ivanti Secure Access) is **not compatib
 
 ---
 
-## ▶️ Usage
+## ▶️ Usage {#usage}
 
 ### 🖥️ 1. Use the AppImage (recommended for most users)
 
@@ -97,7 +97,7 @@ If you’re modifying or testing the source code:
 
 ---
 
-## ⚙️ How It Works
+## ⚙️ How It Works {#how-it-works}
 
 - **Network check**: Prevents VPN use if already inside the HEI network
 - **Browser automation**: Uses Selenium and geckodriver to open Firefox and retrieve the authentication cookie
@@ -107,7 +107,7 @@ If you’re modifying or testing the source code:
 
 ---
 
-## 🆚 Improvements over the Original Project
+## 🆚 Improvements over the Original Project {#improvements-over-the-original-project}
 
 This project is heavily inspired by [**hei-vpn-for-linux**](https://git.kb28.ch/HEL/hei-vpn-for-linux.git) by [**Lord Baryhobal**](https://git.kb28.ch/HEL), with the following enhancements:
 
@@ -124,7 +124,7 @@ This project is heavily inspired by [**hei-vpn-for-linux**](https://git.kb28.ch/
 
 ---
 
-## 🙌 Credits
+## 🙌 Credits {#credits}
 
 - Developed by **Zoatik** (© 2025)
 - Inspired by [**hei-vpn-for-linux**](https://git.kb28.ch/HEL/hei-vpn-for-linux.git) by [**Lord Baryhobal**](https://git.kb28.ch/HEL)
@@ -157,7 +157,7 @@ This project is heavily inspired by [**hei-vpn-for-linux**](https://git.kb28.ch/
 
 ---
 
-## 📄 Licenses
+## 📄 Licenses {#licenses}
 
 The main source code of this project is published under the **MIT License**:
 
@@ -185,7 +185,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-### 📌 About hei-vpn-for-linux
+### 📌 About hei-vpn-for-linux 
 
 The project [**hei-vpn-for-linux**](https://git.kb28.ch/HEL/hei-vpn-for-linux.git) does not declare an explicit license.  
 Its code was studied and adapted for educational and technical purposes. 
