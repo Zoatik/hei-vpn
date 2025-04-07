@@ -6,26 +6,26 @@
 
 ## 📚 Table of Contents
 
-- [Context](#context)
-- [Key Features](#key-features)
-- [Usage](#usage)
-- [How It Works](#how-it-works)
-- [Improvements over the Original Project](#improvements-over-the-original-project)
-- [Credits](#credits)
-- [Licenses](#licenses)
+- [🎯 Context](#-context)
+- [✨ Key Features](#-key-features)
+- [💡 Usage](#-usage)
+- [🔧 How It Works](#-how-it-works)
+- [🆚 Improvements over the Original Project](#-improvements-over-the-original-project)
+- [🙌 Credits](#-credits)
+- [📄 Licenses](#-licenses)
 
 ---
 
-## Context
+## 🎯 Context
 
-The official VPN client provided by HEI (Ivanti Secure Access) is **not compatible with Linux**.  🎯
+The official VPN client provided by HEI (Ivanti Secure Access) is **not compatible with Linux**.  
 **HEI-VPN** was created to address this gap by providing a reliable, portable, and easy-to-use alternative that requires no manual setup. This project is heavily inspired by [**hei-vpn-for-linux**](https://git.kb28.ch/HEL/hei-vpn-for-linux.git) by [**Lord Baryhobal**](https://git.kb28.ch/HEL).
 
 ---
 
-## Key Features
+## ✨ Key Features 
 
-- Automatic connection to the HEI's Ivanti VPN ✨ 
+- Automatic connection to the HEI's Ivanti VPN
 - Detects when already inside the HEI network (prevents redundant connection)
 - Console interface
 - Extracts `DSID` cookie from Firefox automatically
@@ -36,7 +36,7 @@ The official VPN client provided by HEI (Ivanti Secure Access) is **not compatib
 
 ---
 
-## ▶️ Usage {#usage}
+## 💡 Usage
 
 ### 🖥️ 1. Use the AppImage (recommended for most users)
 
@@ -97,7 +97,7 @@ If you’re modifying or testing the source code:
 
 ---
 
-## ⚙️ How It Works {#how-it-works}
+## 🔧 How It Works
 
 - **Network check**: Prevents VPN use if already inside the HEI network
 - **Browser automation**: Uses Selenium and geckodriver to open Firefox and retrieve the authentication cookie
@@ -107,7 +107,7 @@ If you’re modifying or testing the source code:
 
 ---
 
-## 🆚 Improvements over the Original Project {#improvements-over-the-original-project}
+## 🆚 Improvements over the Original Project
 
 This project is heavily inspired by [**hei-vpn-for-linux**](https://git.kb28.ch/HEL/hei-vpn-for-linux.git) by [**Lord Baryhobal**](https://git.kb28.ch/HEL), with the following enhancements:
 
@@ -124,7 +124,7 @@ This project is heavily inspired by [**hei-vpn-for-linux**](https://git.kb28.ch/
 
 ---
 
-## 🙌 Credits {#credits}
+## 🙌 Credits
 
 - Developed by **Zoatik** (© 2025)
 - Inspired by [**hei-vpn-for-linux**](https://git.kb28.ch/HEL/hei-vpn-for-linux.git) by [**Lord Baryhobal**](https://git.kb28.ch/HEL)
@@ -157,7 +157,7 @@ This project is heavily inspired by [**hei-vpn-for-linux**](https://git.kb28.ch/
 
 ---
 
-## 📄 Licenses {#licenses}
+## 📄 Licenses
 
 The main source code of this project is published under the **MIT License**:
 
@@ -184,6 +184,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+More infos in [**Licenses.txt**](https://github.com/Zoatik/hei-vpn/edit/main/LICENSES.txt).
 
 ### 📌 About hei-vpn-for-linux 
 
