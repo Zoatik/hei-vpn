@@ -7,7 +7,7 @@
 ## 📚 Table of Contents
 
 - [Context](#🎯-context)
-- [Key Features](#key-features)
+- [Key Features](#✨-key-features)
 - [Usage](#usage)
 - [How It Works](#how-it-works)
 - [Improvements over the Original Project](#improvements-over-the-original-project)
@@ -23,7 +23,7 @@ The official VPN client provided by HEI (Ivanti Secure Access) is **not compatib
 
 ---
 
-## ✨ Key Features {#key-features}
+## ✨ Key Features
 
 - Automatic connection to the HEI's Ivanti VPN
 - Detects when already inside the HEI network (prevents redundant connection)
