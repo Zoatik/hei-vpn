@@ -6,36 +6,26 @@
 
 ## 📚 Table of Contents
 
-- [🎯 Context](#---context)
-- [✨ Key Features](#--key-features)
-- [▶️ Usage {#usage}](#---usage---usage-)
-  * [🖥️ 1. Use the AppImage (recommended for most users)](#----1-use-the-appimage--recommended-for-most-users-)
-  * [🐍 2. Install via `pip` (developer/advanced usage)](#---2-install-via--pip---developer-advanced-usage-)
-  * [👨‍💻 3. Run directly from source (dev mode)](#------3-run-directly-from-source--dev-mode-)
-  * [🧠 Note](#---note)
-- [⚙️ How It Works {#how-it-works}](#---how-it-works---how-it-works-)
-- [🆚 Improvements over the Original Project {#improvements-over-the-original-project}](#---improvements-over-the-original-project---improvements-over-the-original-project-)
-- [🙌 Credits {#credits}](#---credits---credits-)
-  * [🔸 geckodriver (Mozilla)](#---geckodriver--mozilla-)
-  * [🔸 appimagetool (AppImage Project)](#---appimagetool--appimage-project-)
-  * [🔸 selenium (SeleniumHQ)](#---selenium--seleniumhq-)
-  * [🔸 psutil](#---psutil)
-  * [🔸 requests](#---requests)
-- [📄 Licenses {#licenses}](#---licenses---licenses-)
-  * [📌 About hei-vpn-for-linux](#---about-hei-vpn-for-linux)
+- [Context](#context)
+- [Key Features](#key-features)
+- [Usage](#usage)
+- [How It Works](#how-it-works)
+- [Improvements over the Original Project](#improvements-over-the-original-project)
+- [Credits](#credits)
+- [Licenses](#licenses)
 
 ---
 
-## 🎯 Context
+## Context
 
-The official VPN client provided by HEI (Ivanti Secure Access) is **not compatible with Linux**.  
+The official VPN client provided by HEI (Ivanti Secure Access) is **not compatible with Linux**.  🎯
 **HEI-VPN** was created to address this gap by providing a reliable, portable, and easy-to-use alternative that requires no manual setup. This project is heavily inspired by [**hei-vpn-for-linux**](https://git.kb28.ch/HEL/hei-vpn-for-linux.git) by [**Lord Baryhobal**](https://git.kb28.ch/HEL).
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-- Automatic connection to the HEI's Ivanti VPN
+- Automatic connection to the HEI's Ivanti VPN ✨ 
 - Detects when already inside the HEI network (prevents redundant connection)
 - Console interface
 - Extracts `DSID` cookie from Firefox automatically
