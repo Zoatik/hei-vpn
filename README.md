@@ -46,7 +46,7 @@ The official VPN client provided by HEI (Ivanti Secure Access) is **not compatib
 
    **Build the AppImage from source** with the *build-appimage* script:
    ```bash
-   ./build-appimage.sh
+   ./build-appimage # AppImage will be created in a new folder : hei-vpn/App
    ```
 3. **Make it executable**:
    ```bash
