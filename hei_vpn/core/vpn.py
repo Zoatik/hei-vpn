@@ -127,5 +127,5 @@ def doLogin(config):
     driver, dkey = startBrowser(False)
     driver.get(config["gateway"])
     wait = WebDriverWait(driver, 9999)
-    wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "img[alt=Logo],img[alt=logo]")))
+    wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "img[alt="app logo"]")))
     closeBrowser(driver, dkey)
