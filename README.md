@@ -6,13 +6,23 @@
 
 ## 📚 Table of Contents
 
-- [Context](#🎯-context)
-- [Key Features](#✨-key-features)
-- [Usage](#usage)
-- [How It Works](#how-it-works)
-- [Improvements over the Original Project](#improvements-over-the-original-project)
-- [Credits](#credits)
-- [Licenses](#licenses)
+- [🎯 Context](#---context)
+- [✨ Key Features](#--key-features)
+- [▶️ Usage {#usage}](#---usage---usage-)
+  * [🖥️ 1. Use the AppImage (recommended for most users)](#----1-use-the-appimage--recommended-for-most-users-)
+  * [🐍 2. Install via `pip` (developer/advanced usage)](#---2-install-via--pip---developer-advanced-usage-)
+  * [👨‍💻 3. Run directly from source (dev mode)](#------3-run-directly-from-source--dev-mode-)
+  * [🧠 Note](#---note)
+- [⚙️ How It Works {#how-it-works}](#---how-it-works---how-it-works-)
+- [🆚 Improvements over the Original Project {#improvements-over-the-original-project}](#---improvements-over-the-original-project---improvements-over-the-original-project-)
+- [🙌 Credits {#credits}](#---credits---credits-)
+  * [🔸 geckodriver (Mozilla)](#---geckodriver--mozilla-)
+  * [🔸 appimagetool (AppImage Project)](#---appimagetool--appimage-project-)
+  * [🔸 selenium (SeleniumHQ)](#---selenium--seleniumhq-)
+  * [🔸 psutil](#---psutil)
+  * [🔸 requests](#---requests)
+- [📄 Licenses {#licenses}](#---licenses---licenses-)
+  * [📌 About hei-vpn-for-linux](#---about-hei-vpn-for-linux)
 
 ---
 
